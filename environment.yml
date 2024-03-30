@@ -1,0 +1,10 @@
+name: ir-cross-evaluations
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - beir
+  - transformers
+  - numpy
+  - torch
