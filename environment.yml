@@ -4,7 +4,9 @@ channels:
   - defaults
 dependencies:
   - python=3.10
-  - beir
-  - transformers
-  - numpy
-  - torch
+  - pip
+  - pip:
+    - beir
+    - transformers
+    - numpy
+    - torch
