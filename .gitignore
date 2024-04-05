@@ -1,4 +1,7 @@
-datasets/
+datasets
+*.zip
+*.pt
+bert-qa
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
